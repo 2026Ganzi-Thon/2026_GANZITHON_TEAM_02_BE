@@ -1,4 +1,4 @@
-# 메에일 (Meail) — Backend
+# 메에일 (Maeil) — Backend
 
 > 2026 간지톤 TEAM 02 · 백엔드 저장소
 
